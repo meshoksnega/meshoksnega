@@ -50,7 +50,7 @@ https://github.com/meshoksnega/ColorRave |
 ### 💬 Contact Me:
 
 <p align="center">
-  - [Telegram](https://t.me/Meshok_Snega)  
+  - Telegram: https://t.me/Meshok_Snega |
   - Discord: @meshok_snega
 </p>
 
