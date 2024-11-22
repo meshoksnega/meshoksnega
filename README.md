@@ -44,7 +44,7 @@ In addition, I create **Minecraft skins** (intermediate level) 🧑‍🎨.
 ### 🚀 Projects:
 
 <p align="center">
-- [PGW website](https://www.globalworlds.net/?v=1) – a website for a Minecraft server.
+- (PGW website)[https://www.globalworlds.net/?v=1] – a website for a Minecraft server.
 - [Minecraft 3D Art Projects](https://github.com/meshoksnega/3d-art-minecraft) – collection of 3D Minecraft-themed artworks.
 - [Minecraft Skins](https://github.com/meshoksnega/minecraft-skins) – intermediate-level Minecraft skins.
 </p>
