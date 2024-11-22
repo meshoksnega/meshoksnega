@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://i.imgur.com/EX57RUt.png" width="100%" alt="Banner" />
-</p>
-
-<p align="center">
   <img src="https://i.imgur.com/S92I6kx.png" width="150" alt="Profile Avatar" />
 </p>
 
