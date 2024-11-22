@@ -10,6 +10,8 @@
 
 Welcome to my GitHub profile!  
 I'm a developer passionate about **Python**, **Frontend**, and exploring new programming languages. 🚀  
+I'm also a **3D Artist** specializing in **Minecraft** 3D art creation. 🎨  
+In addition, I create **Minecraft skins** (intermediate level) 🧑‍🎨.
 
 ---
 
@@ -43,7 +45,8 @@ I'm a developer passionate about **Python**, **Frontend**, and exploring new pro
 
 <p align="center">
   - [PGW Website](https://github.com/meshoksnega/pgw-website) – a website for a Minecraft server.  
-  - [Another Project](https://github.com/meshoksnega/project-name) – brief description.
+  - [Minecraft 3D Art Projects](https://github.com/meshoksnega/3d-art-minecraft) – collection of 3D Minecraft-themed artworks.  
+  - [Minecraft Skins](https://github.com/meshoksnega/minecraft-skins) – intermediate-level Minecraft skins.
 </p>
 
 ---
