@@ -8,7 +8,7 @@ Welcome to my GitHub profile!
 I'm a developer passionate about **Python**, **Frontend**, and exploring new programming languages. 🚀  
 I'm also a **3D Artist** specializing in **Minecraft** 3D art creation. 🎨  
 In addition, I create **Minecraft skins** (intermediate level) 🧑‍🎨.
-I also create music for the game **Friday night funkin**
+I also create music for the game **Friday night funkin**.
 
 ---
 
