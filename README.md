@@ -1,4 +1,4 @@
-<h1 align="center">Привіт! 👋 Мене звати Олексій</h1>
+<h1 align="center">Привіт! 👋 Мене звати S_LS (Чи Торбина Снігу)</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Вітаю+на+моєму+GitHub!;Я+розробник+та+ентузіаст+кодування;Люблю+створювати+цікаві+проєкти" alt="Typing SVG" />
 </p>
