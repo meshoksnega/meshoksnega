@@ -1,62 +1,42 @@
+<h1 align="center">Привіт! 👋 Мене звати [Твоє Ім’я]</h1>
 <p align="center">
-  <img src="https://i.imgur.com/S92I6kx.png" width="150" alt="Profile Avatar" />
-</p>
-
-# Hi there, I'm MeshokSnega! 👋
-
-Welcome to my GitHub profile!  
-I'm a developer passionate about **Python**, **Frontend**, and exploring new programming languages. 🚀  
-I'm also a **3D Artist** specializing in **Minecraft** 3D art creation. 🎨  
-In addition, I create **Minecraft skins** (intermediate level) 🧑‍🎨.
-<p>I also create music for the game <bold>Friday night funkin<bold>.</p>
-
----
-
-### 🛠️ Skills and Technologies:
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <br />
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Denizen-5B5B5B?style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Вітаю+на+моєму+GitHub!;Я+розробник+та+ентузіаст+кодування;Люблю+створювати+цікаві+проєкти" alt="Typing SVG" />
 </p>
 
 ---
 
-### 📊 GitHub Stats:
+### 🧠 Про мене:
+- 💻 Пишу на: **Python, JavaScript, HTML/CSS, Java**
+- 🎮 Зацікавлений у: **Discord-ботах, веб-розробці, ігрових скриптах (Minecraft / Denizen)**
+- 🇺🇦 З України, працюю над проєктами з душею
+- 🧩 Завжди вчу щось нове та відкритий до співпраці
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meshoksnega&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+---
 
+### 🚀 Поточні проєкти:
+- 🤖 Телеграм-боти з AI та інтерактивними меню
+- 💬 Discord-бот з голосуваннями, тредами та рейтингами
+
+---
+
+### 📫 Як зв’язатись зі мною:
+- Telegram: [@Meshok_Snega](https://t.me/Meshok_Snega)
+- Discord: **@meshok_snega**
+- GitHub: [github.com/meshoksnega](https://github.com/meshoksnega)
+
+---
+
+### 📈 Статистика GitHub:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meshoksnega&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=meshoksnega&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meshoksnega&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p>
 
 ---
 
-### 🚀 Projects:
-
-<p align="center">
-https://github.com/meshoksnega/Interno |
-https://github.com/meshoksnega/SOUNDTRACK |
-https://github.com/meshoksnega/ColorRave |
-</p>
+### ☕ Натхнення = Код + Музика + Вечір
+> “Кожен рядок коду – це крок до чогось більшого.”  
+> — Meshok Snega
 
 ---
 
-### 💬 Contact Me:
-
-<p align="center">
-  - Telegram: https://t.me/Meshok_Snega |
-  - Discord: @meshok_snega
-</p>
-
----
-
-<p align="center">
-  ⭐️ Feel free to star my repositories if you like my work!
-</p>
