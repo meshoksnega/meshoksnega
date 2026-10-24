@@ -1,31 +1,24 @@
-<h1 align="center">Привіт! 👋 Мене звати S_LS (Чи Торбина Снігу)</h1>
+<h1 align="center">Hi there! 👋 I'm S_LS (or Torba Snigy)</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Вітаю+на+моєму+GitHub!;Я+розробник+та+ентузіаст+кодування;Люблю+створювати+цікаві+проєкти" alt="Typing SVG" />
+  <img src="https://herokuapp.com" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧠 Про мене:
-- 💻 Пишу на: **Python, JavaScript, HTML/CSS, Java**
-- 🎮 Зацікавлений у: **Discord-ботах, веб-розробці, ігрових скриптах (Minecraft / Denizen)**
-- 🇺🇦 З України, працюю над проєктами з душею
+### 🧠 About Me:
+- 💻 I code in: **Python, JavaScript, HTML/CSS, Java**
+- 🎮 Interested in: **Discord bots, web development, game scripting (Minecraft)**
+- 🇺🇦 From Ukraine, putting my heart and soul into every project
 
 ---
 
-### 🚀 Поточні проєкти:
-- 🤖 Телеграм-боти з AI та інтерактивними меню
-- 💬 Discord-бот з голосуваннями, тредами та рейтингами
-
----
-
-### 📫 Як зв’язатись зі мною:
-- Telegram: [@Meshok_Snega](https://t.me/Meshok_Snega)
+### 📫 How to reach me:
 - Discord: **@meshok_snega**
-- GitHub: [github.com/meshoksnega](https://github.com/meshoksnega)
+- GitHub: [://github.com](https://://github.com)
 
 ---
 
-### 📈 Статистика GitHub:
+### 📈 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=meshoksnega&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meshoksnega&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
@@ -33,9 +26,8 @@
 
 ---
 
-### ☕ Натхнення = Код + Музика + Вечір
-> “Кожен рядок коду – це крок до чогось більшого.”  
-> — Meshok Snega
+### ☕ Inspiration = Code + Music + Evening
+> "Every line of code is a step towards something bigger."
+> — Chudwire
 
 ---
-
