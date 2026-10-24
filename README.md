@@ -1,9 +1,6 @@
 <h1 align="center">Hi there! 👋 I'm S_LS (or Torba Snigy)</h1>
-<p align="center">
-  <img src="https://herokuapp.com" alt="Typing SVG" />
-</p>
 
----
+
 
 ### 🧠 About Me:
 - 💻 I code in: **Python, JavaScript, HTML/CSS, Java**
