@@ -11,7 +11,6 @@
 
 ### 📫 How to reach me:
 - Discord: **@meshok_snega**
-- GitHub: [://github.com](https://://github.com)
 
 ---
 
